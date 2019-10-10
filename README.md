@@ -1,11 +1,11 @@
 # databanks-prompt
 prompt for zsh
 
-Clean
+### Clean
 ![clean](https://i.imgur.com/PRTy67X.png)
 
-Dirty
+### Dirty
 ![dirty](https://i.imgur.com/eA9zIYP.png)
 
-Committed
+### Committed
 ![branch-ahead](https://i.imgur.com/42vW7KE.png)
